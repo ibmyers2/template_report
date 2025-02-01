@@ -1,5 +1,11 @@
 ---
-title: This is the index to a subfolder
+title: Individual Design
 ---
 
-Things to discuss
+Block Diagram Components:
+-ESP32 Microcontroller
+-Voltage Regulator (3.3V)
+-Pushbutton
+-OLED Screen
+-9V 1A Battery Power Supply
+
